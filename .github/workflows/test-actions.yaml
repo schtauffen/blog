@@ -1,0 +1,15 @@
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  one:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo '1'
+  two:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo '2'
