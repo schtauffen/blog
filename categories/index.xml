@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zach Dahl</title>
+    <link>https://schtauffen.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Zach Dahl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>z.schtauffen@gmail.com (Zach Dahl)</managingEditor>
+    <webMaster>z.schtauffen@gmail.com (Zach Dahl)</webMaster>
+    <copyright>© Zach Dahl</copyright>
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://schtauffen.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://schtauffen.github.io/blog/categories/web-development/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <author>z.schtauffen@gmail.com (Zach Dahl)</author>
+      <guid>https://schtauffen.github.io/blog/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
